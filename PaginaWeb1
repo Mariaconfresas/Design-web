@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html long="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cupcake's World ♥</title>
+    <link rel="stylesheet" href="PaginaWeb.css">
+    <style>
+    
+    </style>
+    </head>
+
+    <body>
+      
+    <section id="section1">
+    <center><h1>C u p c a k e 's W o r l d  ♥</h1></center>
+       
+    </section1>
+    
+    <section id="section2" class="border">
+    <center><h3>Ilustration  |  Graphics  |  About me  |  Contact</h3></center>
+</section2>
+<hr>
+
+<section id="section3"><center>
+    <img src="C:\xampp\htdocs\maria\ImagenesCupcakes\Cup1.png" width="250px" height="250px">
+    <img src="C:\xampp\htdocs\maria\ImagenesCupcakes\Cup2.png" width="250px" height="250px">
+    <img src="C:\xampp\htdocs\maria\ImagenesCupcakes\cup3.png" width="250px" height="250px">
+</center></section3>
+
+<section id="section4"><center>
+    <img src="C:\xampp\htdocs\maria\ImagenesCupcakes\cup4.png" width="250px" height="250px">
+    <img src="C:\xampp\htdocs\maria\ImagenesCupcakes\cup5.png" width="250px" height="250px">
+    <img src="C:\xampp\htdocs\maria\ImagenesCupcakes\cup6.png" width="250px" height="250px">
+
+<h2>Nuestras cafeterías</h2>
+</center></section4>
+    
+
+
+
+
+<section id="section5"><center>
+    <div id="Tabladecolores">
+        <table>
+        <thead>
+            <tr>
+                <th></th>
+                <th class="fondorosa" colspan="2">Cafetería 1</th>
+                <th class="fondorosa" colspan="2">Cafetería 2</th>
+                <th class="fondorosa" colspan="2">Cafetería 3</th>
+            </tr>
+            <tr>
+                <th class="fondoazul"></th>
+                <th class="fondoazul">Sin vender</th>
+                <th class="fondoazul">Vendidos</th>
+                <th class="fondoazul">Sin vender</th>
+                <th class="fondoazul">Vendidos</th>
+                <th class="fondoazul">Sin vender</th>
+                <th class="fondoazul">Vendidos</th>
+            </tr>
+        </thead>
+        <tr>
+            <td class="fondorosa">A z u l e s</td>
+            <td class="fondoblanco">20</td>
+            <td class="fondoblanco">2</td>
+            <td class="fondoblanco">19</td>
+            <td class="fondoblanco">3</td>
+            <td class="fondoblanco">22</td>
+            <td class="fondoblanco">0</td>
+        </tr>
+        <tr>
+            <td class="fondorosa">R o s a s</td>
+            <td class="fondoblanco">10</td>
+            <td class="fondoblanco">12</td>
+            <td class="fondoblanco">15</td>
+            <td class="fondoblanco">7</td>
+            <td class="fondoblanco">12</td>
+            <td class="fondoblanco">10</td>
+        </tr>
+    </table>
+    </div></center></section>
+    
+    
+
+<center><h2> Horarios de clase </h2></center>
+<section id="section6"><center>
+    <div id="Tabladecolores">
+        <table>
+        <thead>
+            <tr>
+                <th class="fondorosa">Horas</th>
+                <th class="fondorosa">Lunes</th>
+                <th class="fondorosa">Martes</th>
+                <th class="fondorosa">Miércoles</th>
+                <th class="fondorosa">Jueves</th>
+                <th class="fondorosa">Viernes</th>
+            </tr>
+           
+        </thead>
+        <tr>
+            <td class="fondoazul">8:00 - 9:00</th>
+            <td class="fondomatematicas" rowspan="2">Matemáticas</th>
+            <td class="fondoblanco">Lengua</th>
+            <td class="fondoblanco">Música</th>
+            <td class="fondoblanco"></th>
+            <td class="fondomatematicas" rowspan="2">Matemáticas</th>
+        </tr>
+        <tr>
+            <td class="fondoazul">9:00 - 10:00</td>
+            
+            <td class="fondoingles">Inglés</td>
+            <td class="fondoingles">Inglés</td>
+            <td class="fondoblanco">E. Física</td>
+            
+            
+        </tr>
+        <tr>
+            <td class="fondoazul">10:00 - 10:30</td>
+            <td class="fondorosa" colspan="5">Recreo</td>
+         
+        </tr>
+
+        <tr>
+            <td class="fondoazul">10:30 - 11:30</td>
+            <td class="fondoblanco">E. Física</td>
+            <td class="fondoblanco">Valenciano</td>
+            <td class="fondoblanco" rowspan="2">Lengua</td>
+            <td class="fondoblanco">Informática</td>
+            <td class="fondoingles">Inglés</td>
+        </tr>
+
+        <tr>
+            <td class="fondoazul">12:30 - 13:30</td>
+            <td class="fondoblanco">Música</td>
+            <td class="fondoblanco">E. Física</td>
+            
+            <td class="fondomatematicas" rowspan="2">Matemáticas</td>
+            <td class="fondoblanco">Informática</td>
+        </tr>
+
+        <tr>
+            <td class="fondoazul">13:30 - 14:30</td>
+            <td class="fondoblanco"></td>
+            <td class="fondoblanco">Informática</td>
+            <td class="fondoblanco"></td>
+            
+            <td class="fondoblanco"></td> 
+        </tr>
+    </table>
+
+    <section id="section7"><h2>Tabla de datos</h2><center>
+        <div id="Tabladedatoscoloreada">
+        <table>
+            <input type="search" name="busquedadedatos" placeholder="Escribe aquí...">
+
+    <input type="submit" value="Buscar">
+            <tr>
+                <td class="fondomarino">Nº</td>
+                <td class="fondomarino">Nombre</td>
+                <td class="fondomarino">Apellidos</td>
+                <td class="fondomarino">DNI</td>
+                <td class="fondomarino">Acciones</td>
+            </tr>
+
+            <tr>
+                <td class="fondogrisdatos">1</td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+                
+            </tr>
+
+            <tr>
+                <td class="fondogrisdatos">2</td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+            </tr>
+
+            <tr>
+                <td class="fondogrisdatos">3</td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+            </tr>
+
+            <tr>
+                <td class="fondogrisdatos">4</td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+                <td class="fondogrisdatos"></td>
+            </tr>
+        </table>
+    </div></center></section7>
+</body>
+</html>
